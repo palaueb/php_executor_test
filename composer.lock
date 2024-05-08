@@ -70,12 +70,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/palaueb/php_executor.git",
-                "reference": "99119c01632fc4a84434c9edf57e88b317fc8777"
+                "reference": "ec2aee6e03a6c32a72c7cfd827110303c5e7b809"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/palaueb/php_executor/zipball/99119c01632fc4a84434c9edf57e88b317fc8777",
-                "reference": "99119c01632fc4a84434c9edf57e88b317fc8777",
+                "url": "https://api.github.com/repos/palaueb/php_executor/zipball/ec2aee6e03a6c32a72c7cfd827110303c5e7b809",
+                "reference": "ec2aee6e03a6c32a72c7cfd827110303c5e7b809",
                 "shasum": ""
             },
             "require": {
@@ -97,7 +97,7 @@
                 "issues": "https://github.com/palaueb/php_executor/issues",
                 "source": "https://github.com/palaueb/php_executor/tree/main"
             },
-            "time": "2024-05-05T17:32:28+00:00"
+            "time": "2024-05-08T17:50:51+00:00"
         }
     ],
     "packages-dev": [],
