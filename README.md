@@ -20,7 +20,8 @@ composer install
 php app.php
 ```
 
-## Output
+## Output
+
 ```
 Setup execution
 Init execution
@@ -32,6 +33,17 @@ Get in file: .../php_executor_test/tests/basic.php
 Load AST
 Execute AST in context [\]
 String: [DIR BASIC: ]
+...
+much more code ...
+...
+Get in file: .../php_executor_test/tests/basic_class.php
+Load AST
+Execute AST in context [\]
+Class: Basic_root_class in context [\]
+Identifier: [Basic_root_class]
+Get current file: [.../php_executor_test/tests/basic_class.php]
+Get out file: [.../php_executor_test/tests/basic_class.php]
+Halt execution
 ```
 
 
