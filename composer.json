@@ -1,0 +1,5 @@
+{
+    "require": {
+        "palaueb/php_executor": "dev-main"
+    }
+}
