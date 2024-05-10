@@ -1,6 +1,18 @@
 <?php
 
-
+switch(null){
+    case 1: echo "1\n";
+    case 2: echo "2\n"; 
+    break;
+    default: echo "default\n"; break;
+}
+$a = 100;
+switch($a){
+    case 100: echo "is 100"; break;
+    case 2: echo "2"; break;
+    default: echo "default"; break;
+}
+die();
 function level1(){}
 
 function level1_2():bool{ return true;}
@@ -23,6 +35,8 @@ function level5(){
     var_export($args);
 }
 
+$a = [];
+$a[] = "A";
 
 /*
 die("END_EXECUTOR");
